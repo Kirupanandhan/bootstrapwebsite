@@ -279,11 +279,14 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
+![image](https://user-images.githubusercontent.com/94386222/154188681-3dc49256-346f-44a2-a9d8-8b318d9c1140.png)
 
 ### Contact Page:
+![image](https://user-images.githubusercontent.com/94386222/154188524-c4f463ff-0373-44f2-a334-da52f9d5d787.png)
 
 ### About As Page:
 
+![image](https://user-images.githubusercontent.com/94386222/154188616-390d768f-83aa-4eb7-aea2-9062d7411b47.png)
 
 
 ## Result:
